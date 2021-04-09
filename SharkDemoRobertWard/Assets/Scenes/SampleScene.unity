@@ -335,7 +335,7 @@ MonoBehaviour:
   - {fileID: 3852166469616243142, guid: 2409bd234e24f824bb049dc23708a6fd, type: 3}
   - {fileID: 5158063040883690820, guid: 632950945cb2df346ba68a9729d77853, type: 3}
   MaxZ: 40
-  MinZ: -40
+  MinZ: -35
   MaxY: 13
   MinY: -13
   timeBetweenSpawns: 1
@@ -775,11 +775,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7380831090992519986, guid: 54eda20090c18d5488576aeba81d9cb7, type: 3}
       propertyPath: maxZ
-      value: 15
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 7380831090992519986, guid: 54eda20090c18d5488576aeba81d9cb7, type: 3}
       propertyPath: minZ
-      value: -10
+      value: -25
       objectReference: {fileID: 0}
     - target: {fileID: 7380831090992519986, guid: 54eda20090c18d5488576aeba81d9cb7, type: 3}
       propertyPath: MaxSickTime
